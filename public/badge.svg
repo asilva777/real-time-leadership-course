@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <!-- Background -->
+  <rect width="500" height="500" rx="40" fill="#ffffff" stroke="#2563eb" stroke-width="4"/>
+
+  <!-- Badge Icon (from your URL) -->
+  <image
+    href="https://img1.wsimg.com/isteam/ip/58ed6e8f-da3e-442a-9a56-be3eddf67a9d/blob-f1972d0.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:500,h:500,cg:true"
+    x="75"
+    y="80"
+    width="350"
+    height="350"
+    preserveAspectRatio="xMidYMid meet"
+  />
+
+  <!-- Badge Title (optional overlay text) -->
+  <text
+    x="250"
+    y="460"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="18"
+    fill="#1e40af"
+    font-weight="bold"
+  >
+    Real-Time Leader
+  </text>
+</svg>
