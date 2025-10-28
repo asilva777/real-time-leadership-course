@@ -1,0 +1,41 @@
+# robots.txt for https://asilvainnovations.com and course subpaths
+# Last updated: 2025-10-28
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Allow social/media crawlers for rich link previews
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# General rule: allow all other bots (permissive but explicit)
+User-agent: *
+Allow: /
+
+# Disallow sensitive or non-public paths (defensive)
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Sitemap declaration (highly recommended)
+Sitemap: https://asilvainnovations.com/sitemap.xml
+
+# Optional: Crawl-delay for aggressive bots (commented out by default)
+# Crawl-delay: 10
