@@ -1,4 +1,5 @@
-# real-time-leadership-course
+#Real-Time Leadership Center
+
 Real-Time Leadership for Resilient Organizations: A MOVE-Based Microlearning Journey”.
 production-ready React + Vite codebase for your course “Real-Time Leadership for Resilient Organizations: A MOVE-Based Microlearning Journey”.
 
