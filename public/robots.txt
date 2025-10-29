@@ -1,7 +1,3 @@
-# robots.txt for https://asilvainnovations.com and course subpaths
-# Last updated: 2025-10-28
-
-# Allow all major search engines
 User-agent: Googlebot
 Allow: /
 
